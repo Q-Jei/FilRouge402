@@ -152,8 +152,15 @@ public class Gestionnaire {
                     System.out.println("Couleur du plumage :");
                     String couleur = sc.nextLine();
 
-                    System.out.println("Ce paon peut-il voler ? (oui/non) :");
+                    System.out.println("Cet animal peut-il voler ?");
+                    System.out.println("1 - Oui");
+                    System.out.println("2 - Non");
                     String voler = sc.nextLine();
+                    if (voler.equals("1")) {
+                        voler = "oui";
+                    } else if (voler.equals("2")) {
+                        voler = "non";
+                    }
 
                     String courir = "Peu importe";
 
@@ -168,8 +175,15 @@ public class Gestionnaire {
                     System.out.println("Couleur du plumage :");
                     couleur = sc.nextLine();
 
-                    System.out.println("Ce toucan peut-il voler ? (oui/non) :");
+                    System.out.println("Cet animal peut-il voler ?");
+                    System.out.println("1 - Oui");
+                    System.out.println("2 - Non");
                     voler = sc.nextLine();
+                    if (voler.equals("1")) {
+                        voler = "oui";
+                    } else if (voler.equals("2")) {
+                        voler = "non";
+                    }
 
                     courir = "Peu importe";
 
@@ -184,8 +198,15 @@ public class Gestionnaire {
                     System.out.println("Couleur du pelage :");
                     couleur = sc.nextLine();
 
-                    System.out.println("Ce jaguar peut-il courir ? (oui/non) :");
+                    System.out.println("Cet animal peut-il courir ?");
+                    System.out.println("1 - Oui");
+                    System.out.println("2 - Non");
                     courir = sc.nextLine();
+                    if (courir.equals("1")) {
+                        courir = "oui";
+                    } else if (courir.equals("2")) {
+                        courir = "non";
+                    }
 
                     voler = "Peu importe";
 
@@ -200,8 +221,15 @@ public class Gestionnaire {
                     System.out.println("Couleur du pelage :");
                     couleur = sc.nextLine();
 
-                    System.out.println("Cette panthère peut-elle courir ? (oui/non) :");
+                    System.out.println("Cet animal peut-il courir ?");
+                    System.out.println("1 - Oui");
+                    System.out.println("2 - Non");
                     courir = sc.nextLine();
+                    if (courir.equals("1")) {
+                        courir = "oui";
+                    } else if (courir.equals("2")) {
+                        courir = "non";
+                    }
 
                     voler = "Peu importe";
 

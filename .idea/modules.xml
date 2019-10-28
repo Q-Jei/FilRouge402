@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/filrouge402_quentin_grebe/production/filrouge402_quentin_grebe/filrouge402_quentin_grebe.iml" filepath="$PROJECT_DIR$/filrouge402_quentin_grebe/production/filrouge402_quentin_grebe/filrouge402_quentin_grebe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/filrouge402_quentin_grebe/filrouge402_quentin_grebe1.iml" filepath="$PROJECT_DIR$/filrouge402_quentin_grebe/filrouge402_quentin_grebe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Le_Zoo_de_Dornach.iml" filepath="$PROJECT_DIR$/Le_Zoo_de_Dornach.iml" />
     </modules>
   </component>
 </project>
